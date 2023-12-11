@@ -1,6 +1,6 @@
 def addition(a,b):
     return a+b
-def multi():
+def multi(a,b,c):
     pass
 def division():
     pass
